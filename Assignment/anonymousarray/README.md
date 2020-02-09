@@ -1,15 +1,15 @@
 Anonymous array:
 
-Syntax:
+    Syntax:
 // anonymous int arrays 
 
-new char[] {'a', 'b', 'c'); 
+    new char[] {'a', 'b', 'c'); 
 
-new int[] { 99, 98, 97, 96};  
+    new int[] { 99, 98, 97, 96};  
                       
-new int[][] { {10, 20}, {30, 40, 50} };
+    new int[][] { {10, 20}, {30, 40, 50} };
 
-new String[] {"Print", "Hello", "World"}; 
+     String[] {"Print", "Hello", "World"}; 
 
 
 1) An array without name is known as anonymous array in java. 
